@@ -1,0 +1,16 @@
+D:\mygit\SP_Gen\SP_Gen\bin\Release\SP_Gen.exe.config
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.csprojResolveAssemblyReference.cache
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.frmMain.resources
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.frmOptions.resources
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.Properties.Resources.resources
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.csproj.GenerateResource.Cache
+D:\mygit\SP_Gen\SP_Gen\bin\Release\SP_Gen.exe.manifest
+D:\mygit\SP_Gen\SP_Gen\bin\Release\SP_Gen.application
+D:\mygit\SP_Gen\SP_Gen\bin\Release\SP_Gen.exe
+D:\mygit\SP_Gen\SP_Gen\bin\Release\SP_Gen.pdb
+D:\mygit\SP_Gen\SP_Gen\bin\Release\Draco.Controls.CodeEditor.dll
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.TrustInfo.xml
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.exe.manifest
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.application
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.exe
+D:\mygit\SP_Gen\SP_Gen\obj\Release\SP_Gen.pdb

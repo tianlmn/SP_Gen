@@ -111,7 +111,7 @@ namespace SP_Gen
             this.txtServerName.Name = "txtServerName";
             this.txtServerName.Size = new System.Drawing.Size(247, 21);
             this.txtServerName.TabIndex = 10;
-            this.txtServerName.Text = "qds113752475.my3w.com";
+            this.txtServerName.Text = "qds167160447.my3w.com";
             // 
             // btnConnect
             // 
@@ -156,7 +156,7 @@ namespace SP_Gen
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(100, 21);
             this.txtUsername.TabIndex = 6;
-            this.txtUsername.Text = "qds113752475";
+            this.txtUsername.Text = "qds167160447";
             // 
             // lblUsername
             // 
@@ -403,7 +403,7 @@ namespace SP_Gen
         ""};
             this.SQL_SyntaxDocument.MaxUndoBufferSize = 1000;
             this.SQL_SyntaxDocument.Modified = false;
-            this.SQL_SyntaxDocument.SyntaxFile = "SQLServer2k.syn";
+            //this.SQL_SyntaxDocument.SyntaxFile = "SQLServer2k.syn";
             this.SQL_SyntaxDocument.UndoStep = 0;
             // 
             // tsCode

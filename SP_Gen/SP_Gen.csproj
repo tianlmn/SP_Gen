@@ -77,9 +77,8 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Draco.Controls.CodeEditor, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Draco.Controls.CodeEditor\bin\Debug\Draco.Controls.CodeEditor.dll</HintPath>
+    <Reference Include="Draco.Controls.CodeEditor">
+      <HintPath>.\Draco.Controls.CodeEditor.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
